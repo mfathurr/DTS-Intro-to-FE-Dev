@@ -1,5 +1,8 @@
 # Digital Talent Scholarship Fresh Graduate Academy (DTS FGA)
-<p align="center">Journey &amp; Tugas Akhir (Mini Project Individual)</p>
+<p align="center">Journey &amp; Tugas Akhir (Mini Project Individual)</p>  
+
+## Tugas Akhir (Mini Project Individual)
+Link Demo: <https://dts-intro-to-fe-dev.vercel.app/>  
   
 ## Rincian Program Pelatihan:
 Program Pelatihan: Intro to Front-end Development Batch 1
