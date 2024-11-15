@@ -1,5 +1,5 @@
 # Digital Talent Scholarship Fresh Graduate Academy (DTS FGA)
-<p align="center">Journey &amp; Tugas Akhir</p>
+<p align="center">Journey &amp; Tugas Akhir (Mini Project Individual)</p>
   
 ## Rincian Program Pelatihan:
 Program Pelatihan: Intro to Front-end Development Batch 1
@@ -22,7 +22,8 @@ Cek Sertifikat: <https://digitalent.kominfo.go.id/cek-sertifikat>
 - HTML & CSS Project (Team) (12 JP)
 - Git (8 JP)
 - Javascript (45 JP)  
-- Javascript Mini Project (Individual) (15 JP)  
+- Javascript Mini Project (Individual) (15 JP) (Peserta membuat aplikasi kalkulator berbasis web
+menggunakan javascript)  
 
 ## My Gear
 - Laptop: SONY VAIO VPCEG38FG (Intel Core i5-2450M | RAM 8GB | SSD Sata III 256GB | NVIDIA GeForce 410M)
