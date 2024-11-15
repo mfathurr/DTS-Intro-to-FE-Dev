@@ -5,7 +5,7 @@
 Link Demo: <https://dts-intro-to-fe-dev.vercel.app/>  
   
 ## Rincian Program Pelatihan:
-Program Pelatihan: Intro to Front-end Development Batch 1
+Program Pelatihan: Intro to Front-end Development Batch 1  
 Mitra Pelatihan: Progate  
 Tanggal Pelatihan: 7 Maret - 4 April 2023  
 Lokasi Pelatihan: Dilaksanakan secara Online  
